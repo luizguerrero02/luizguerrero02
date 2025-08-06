@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Oi! Eu sou o Luiz Fernando, estudante de Engenharia de Software. Estou estudando Python tanto para desenvolvimento quanto para análise de dados, explorando conceitos e ferramentas na prática por meio de cursos e desafios. Busco minha primeira oportunidade na área de tecnologia para aprender na prática e crescer na carreira.
+Oi! Eu sou o Luiz Fernando, tenho 18 anos e atualmente sou estudante de Engenharia de Software. Estou me dedicando ao aprendizado de Python com foco em desenvolvimento, buscando evoluir por meio de cursos, prática constante e projetos pessoais. Estou em busca da minha primeira oportunidade na área de tecnologia para aplicar o que venho aprendendo e crescer profissionalmente.
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
